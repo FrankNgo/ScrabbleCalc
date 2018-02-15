@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <title>Title</title>
+    <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'>
+    <link rel="stylesheet" type="text/css" href="~/css/styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="jumbotron">
+        <div class="well" id="box">
+        <center>
+          <h1>Scrable Calculator</h1>
+        </center>
+      </div>
+      <form action="/" method="post">
+        <label for="player1Guess" style="font-size: 30px">Enter Word: </label>
+      <input class="form-control" id="player1Guess" name="player1Guess" required="true" style="width: 500px">
+      <br>
+
+      <button type="submit">Submit</button>
+      </form>
+
+      <h1><p class="result">The Score for your word is: @Model</p></h1>
+    </div>
+    </div>
+  </body>
+</html>

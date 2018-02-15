@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/CSharpTemplate/RPS/bin/Debug/netcoreapp1.1/RPS.deps.json
+/Users/Guest/Desktop/CSharpTemplate/RPS/bin/Debug/netcoreapp1.1/RPS.runtimeconfig.json
+/Users/Guest/Desktop/CSharpTemplate/RPS/bin/Debug/netcoreapp1.1/RPS.runtimeconfig.dev.json
+/Users/Guest/Desktop/CSharpTemplate/RPS/bin/Debug/netcoreapp1.1/RPS.dll
+/Users/Guest/Desktop/CSharpTemplate/RPS/bin/Debug/netcoreapp1.1/RPS.pdb
+/Users/Guest/Desktop/CSharpTemplate/RPS/obj/Debug/netcoreapp1.1/RPS.AssemblyInfo.cs
+/Users/Guest/Desktop/CSharpTemplate/RPS/obj/Debug/netcoreapp1.1/RPS.dll
+/Users/Guest/Desktop/CSharpTemplate/RPS/obj/Debug/netcoreapp1.1/RPS.pdb
